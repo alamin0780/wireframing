@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1097060a-2ff2-4e25-891a-47d4e09217ac)# wireframing
+# wireframing
 Wireframing is the practice of creating simplified, skeletal representations of a digital product's user interface. These "wireframes" are essentially low-fidelity blueprints that outline the structure, 
 content hierarchy, and functional elements of a webpage or app screen, deliberately omitting any visual design details like colors, fonts, or imagery. Their primary goal is to map out the layout and 
 user flow in a clear, unambiguous manner.
