@@ -1,3 +1,4 @@
+![Use case diagram](images/alx-booking-uc.png)
 # wireframing
 Wireframing is the practice of creating simplified, skeletal representations of a digital product's user interface. These "wireframes" are essentially low-fidelity blueprints that outline the structure, 
 content hierarchy, and functional elements of a webpage or app screen, deliberately omitting any visual design details like colors, fonts, or imagery. Their primary goal is to map out the layout and 
